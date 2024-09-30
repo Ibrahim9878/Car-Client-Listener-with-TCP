@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCP Car Client", "TCP Task Manager Client\TCP Car Client.csproj", "{DB11B352-63DA-4BE0-A9DF-B12AE53F820E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCP Car Listener", "TCP Task Manager Listener\TCP Car Listener.csproj", "{323CE441-DFE4-409F-A18A-E5349AB2967A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB11B352-63DA-4BE0-A9DF-B12AE53F820E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB11B352-63DA-4BE0-A9DF-B12AE53F820E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB11B352-63DA-4BE0-A9DF-B12AE53F820E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB11B352-63DA-4BE0-A9DF-B12AE53F820E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323CE441-DFE4-409F-A18A-E5349AB2967A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323CE441-DFE4-409F-A18A-E5349AB2967A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323CE441-DFE4-409F-A18A-E5349AB2967A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323CE441-DFE4-409F-A18A-E5349AB2967A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0101F99-1A92-4ADF-892D-DA1F21DD424E}
+	EndGlobalSection
+EndGlobal
